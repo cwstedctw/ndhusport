@@ -1,1 +1,1 @@
-print("")
+print("Hello, terminal is working!")
